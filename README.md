@@ -6,7 +6,7 @@ A sleek, modern, and fully responsive landing page designed for tech startups to
 ✅ Features & Services – Showcase key offerings<br> 
 ✅ Contact Form – Collect user inquiries<br> 
 ✅ Easy Deployment – Compatible with Vercel, and Netlify <br>
- <h4>🛠️ Technologies Used</h4><br> 
+ <h4>🛠️ Technologies Used</h4>
  HTML5 – Semantic markup<br> 
 CSS3 – Flexbox, Grid, Animations<br> 
 <br> 
